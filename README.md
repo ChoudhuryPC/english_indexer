@@ -1,7 +1,7 @@
 # Inverted Indexer For English
 
 **This is a simple Web Application built using Flask and Bootstrap that is integrated with an inverted index model.
-This app allows the users to conveniently utilize the Inverted Indexer For English.
+This app allows the users to conveniently utilize the Inverted Indexer For English.**
 
 Through this, a user can
 a) Upload one or more .txt files
