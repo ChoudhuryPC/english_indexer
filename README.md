@@ -1,6 +1,6 @@
 # english_indexer
 
-#steps to run
+# steps to run
 Set your directory to english_indexer-master folder
 
 In your terminal run the following commands
