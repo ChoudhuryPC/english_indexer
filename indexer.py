@@ -6,8 +6,6 @@ def func(location):
 	tk = TweetTokenizer()
 	ps = PorterStemmer()
 
-	location = ['file.txt',
-	            'style.txt']
 	n = len(location)
 
 	wordsArray = []
