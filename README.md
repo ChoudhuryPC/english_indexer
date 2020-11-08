@@ -24,3 +24,6 @@ python main.py
 4.Now, open your browser and go to http://127.0.0.1:5000/
 
 ![image](https://user-images.githubusercontent.com/56104230/98469591-8915fd80-2206-11eb-8b7d-9765df90aa83.png)
+
+![image](https://user-images.githubusercontent.com/56104230/98469804-ca5add00-2207-11eb-8bc8-dd9c8a9cb123.png)
+
