@@ -3,7 +3,7 @@
 # steps to run
 Set your directory to english_indexer-master folder
 
-In your terminal run the following commands
+*In your terminal run the following commands
 
 pip install -r requirements.txt
 
