@@ -22,3 +22,5 @@ pip3 install -r requirements.txt
 python main.py
 
 4.Now, open your browser and go to http://127.0.0.1:5000/
+
+![image](https://user-images.githubusercontent.com/56104230/98469591-8915fd80-2206-11eb-8b7d-9765df90aa83.png)
