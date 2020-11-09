@@ -7,6 +7,8 @@ Through this, a user can
 a) Upload one or more .txt files
 b) Obtain an ordered index with Document Frequency, Document Number and Collection Frequency for each term
 
+Web Application: http://english-indexer.herokuapp.com
+
 (Note: https://github.com/ChoudhuryPC/english_indexer/blob/master/indexer.py file contains the algorithm of indexer)
 
 
