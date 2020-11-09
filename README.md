@@ -15,12 +15,14 @@ Web Application: http://english-indexer.herokuapp.com
 # Steps to run this project 
 After downloading the project folder, go to command prompt and:
 
-1.Set your directory to indexer folder.
+1. Set your directory to indexer folder.
 
-2.Paste and run the following command: 
+2. Paste and run the following command: 
+
 pip3 install -r requirements.txt
 
-3.Next, run this: 
+3. Next, run this:
+
 python main.py
 
 4.Now, open your browser and go to http://127.0.0.1:5000/
